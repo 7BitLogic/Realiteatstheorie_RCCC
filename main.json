@@ -745,6 +745,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"RT_Set",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -777,6 +783,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"Exit",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -790,6 +802,12 @@
          "imagewidth":192,
          "margin":0,
          "name":"tools",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                }],
          "spacing":0,
          "tilecount":12,
          "tileheight":32,
