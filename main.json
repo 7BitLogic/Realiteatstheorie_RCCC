@@ -905,15 +905,6 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
-                {
-                 "id":7,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
-                        }]
                 }],
          "tilewidth":32
         }],
