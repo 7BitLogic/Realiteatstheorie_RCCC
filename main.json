@@ -23,7 +23,7 @@
                 {
                  "name":"getBadge",
                  "type":"string",
-                 "value":"realitaetstheorie_badge"
+                 "value":"Y2kta5Z9pDtRdhfpQbnT6OXvmz2DIQ6ce7IbX4iiV3wVgr4Zo4"
                 }],
          "type":"objectgroup",
          "visible":true,
@@ -714,6 +714,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Hier ist ein Jitsi Raum zum quatschen (Leertaste zum Eintreten dr\u00fccken)."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -798,9 +803,30 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":40,
+ "nextlayerid":41,
  "nextobjectid":9,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Arcade room to get together and play."
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"None"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Realit\u00e4tstheorie arcade room"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
@@ -833,12 +859,453 @@
                         }]
                 }, 
                 {
+                 "id":106,
+                 "properties":[
+                        {
+                         "name":"TilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":131,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":132,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":133,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":134,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":135,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":136,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":137,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":147,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":148,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":149,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":150,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":151,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":152,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":153,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":163,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":164,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":165,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":166,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":167,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":168,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":169,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":179,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":180,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":181,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":182,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":183,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
                  "id":184,
                  "properties":[
                         {
-                         "name":"collisions",
+                         "name":"tilesetCopyright",
                          "type":"string",
-                         "value":"true"
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":185,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":195,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":196,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":197,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":198,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":199,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":200,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":201,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":211,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":212,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":213,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":214,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":215,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":216,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":217,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":227,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":228,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":229,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":230,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":231,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":232,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
+                        }]
+                }, 
+                {
+                 "id":233,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/deed.de)"
                         }]
                 }],
          "tilewidth":32
