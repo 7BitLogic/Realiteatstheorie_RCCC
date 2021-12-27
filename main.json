@@ -687,7 +687,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Hallo! Das hier ist die Geek Stuff Ecke vom Realit\u00e4tstheorie Podcast. An den Arcadeautomaten oben findest Du ein paar Geekige Links die unteren Automaten f\u00fchren zu ein paar Spiele-Klassikern. Den Podcast und manchmal auch uns findest du bei den Logos. \n\n        Viel Spa\u00df!"
+                         "value":"Hallo! Das hier ist die Geek Stuff Ecke vom Realit\u00e4tstheorie Podcast. An den Arcadeautomaten oben findest Du ein paar geekige Links die unteren Automaten f\u00fchren zu ein paar Spiele-Klassikern. Den Podcast und manchmal auch uns findest du bei den Logos. \n\n        Viel Spa\u00df!"
                         }],
                  "type":"tilelayer",
                  "visible":true,
